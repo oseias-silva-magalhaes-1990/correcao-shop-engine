@@ -4,4 +4,4 @@ Bug: Falha na busca de produtos pelo Advanced Search. O usuário seleciona a cat
 
 Adicione o código JQuery ao head do site.
 
-Correção aplicada para a loja online **[Zeca Papelito.](https://zecapapelito.com.br)**
+Correção aplicada para a **[Loja Online Zeca Papelito.](https://zecapapelito.com.br)**
